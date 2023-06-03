@@ -1,0 +1,34 @@
+﻿  main.cpp
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Enemy.h(706,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Enemy.h(707,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Enemy.h(710,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Enemy.h(711,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Enemy.h(732,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Enemy.h(733,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Enemy.h(734,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Enemy.h(735,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Enemy.h(779,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Enemy.h(780,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Enemy.h(783,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Enemy.h(784,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Enemy.h(806,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Enemy.h(807,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Enemy.h(808,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Enemy.h(809,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Barrier.h(119,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Barrier.h(120,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Barrier.h(121,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Barrier.h(122,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\Prop.h(42,36): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\main.cpp(28,33): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\main.cpp(556,55): warning C4838: 从“double”转换到“int”需要收缩转换
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\main.cpp(556,55): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\main.cpp(579,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\main.cpp(625,19): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\main.cpp(627,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\main.cpp(815,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\main.cpp(816,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\main.cpp(817,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\main.cpp(818,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\main.cpp(819,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  TIGER_TIGER.vcxproj -> C:\Users\Administrator\Desktop\新建文件夹 (3)\TIGER_TIGER (2)\x64\Debug\TIGER_TIGER.exe
