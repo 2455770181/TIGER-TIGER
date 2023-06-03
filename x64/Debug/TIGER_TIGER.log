@@ -1,0 +1,30 @@
+﻿  main.cpp
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Enemy.h(692,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Enemy.h(693,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Enemy.h(696,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Enemy.h(697,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Enemy.h(718,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Enemy.h(719,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Enemy.h(720,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Enemy.h(721,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Enemy.h(765,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Enemy.h(766,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Enemy.h(769,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Enemy.h(770,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Enemy.h(792,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Enemy.h(793,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Enemy.h(794,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Enemy.h(795,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Barrier.h(119,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Barrier.h(120,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Barrier.h(121,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Barrier.h(122,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\Prop.h(39,36): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\main.cpp(28,33): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\main.cpp(269,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\main.cpp(270,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\main.cpp(271,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\main.cpp(272,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\main.cpp(464,56): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\main.cpp(464,56): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  TIGER_TIGER.vcxproj -> E:\CPP_project\TIGER-TIGER\TIGER_TIGER (1)\x64\Debug\TIGER_TIGER.exe
