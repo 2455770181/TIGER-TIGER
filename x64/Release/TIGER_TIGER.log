@@ -1,0 +1,43 @@
+﻿  main.cpp
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Enemy.h(706,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Enemy.h(707,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Enemy.h(710,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Enemy.h(711,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Enemy.h(732,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Enemy.h(733,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Enemy.h(734,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Enemy.h(735,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Enemy.h(779,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Enemy.h(780,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Enemy.h(783,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Enemy.h(784,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Enemy.h(806,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Enemy.h(807,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Enemy.h(808,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Enemy.h(809,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Barrier.h(1,1): warning C4828: 文件包含在偏移 0x21e6 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Barrier.h(135,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Barrier.h(136,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Barrier.h(137,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Barrier.h(138,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\Prop.h(42,36): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\main.cpp(109,33): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\main.cpp(121,36): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\main.cpp(642,55): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\main.cpp(642,55): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\main.cpp(665,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\main.cpp(720,19): warning C4018: “<=”: 有符号/无符号不匹配
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\main.cpp(722,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\main.cpp(908,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\main.cpp(1075,18): warning C4018: “<”: 有符号/无符号不匹配
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\main.cpp(1103,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\main.cpp(1104,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\main.cpp(1105,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\main.cpp(1106,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\main.cpp(1107,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+E:\CPP_project\TIGER-TIGER\TIGER_TIGER\main.cpp(764): warning C4715: “ReadScore”: 不是所有的控件路径都返回值
+  All 1776 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  TIGER_TIGER.vcxproj -> E:\CPP_project\TIGER-TIGER\TIGER_TIGER\x64\Release\TIGER_TIGER.exe
